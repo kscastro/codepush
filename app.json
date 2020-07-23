@@ -1,0 +1,12 @@
+{
+  "name": "codePush",
+  "displayName": "codePush",
+  "expo": {
+    "name": "codePush",
+    "slug": "codePush",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
